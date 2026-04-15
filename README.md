@@ -20,4 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/ff512fa4-edc9-45e2-be85-28983
    `npm run dev`
 
 ## 📸 Output Screenshot
-![Output](Skill gap analyser result.jpeg)
+![Output](result.jpeg)
