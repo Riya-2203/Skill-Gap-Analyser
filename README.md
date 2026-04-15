@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/ff512fa4-edc9-45e2-be85-28983
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## 📸 Output Screenshot
+![Output](<img width="1600" height="831" alt="Skill gap analyser result" src="https://github.com/user-attachments/assets/97548639-e605-4515-b0df-a9b3fa91b672" />
+)
